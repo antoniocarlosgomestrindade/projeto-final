@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.ofertas h1{
+    margin-left: 3rem;
+    margin-top: 4rem;
+}
+.ofertas .card{
+    margin-left: 6rem;
+    margin-top: 3rem;
+    display: inline-block;
+    justify-items: center;
+    margin-bottom: 5rem;
+    width: 23rem;
+}
+.ofertas .card img{
+    height: 15rem;
+    width: 22rem;
+    margin-left: 0.5rem;
+}
+.ford{
+    margin-left: 10rem;
+    margin-top: -20rem;
+}
+.ford h1{
+    margin-left: 3rem;
+    margin-top: 4rem;
+}
+.ford .card{
+    margin-left: 4.5rem;
+    margin-top: 3rem;
+    display: inline-block;
+    justify-items: center;
+    margin-bottom: 5rem;
+    width: 23rem;
+}
+.ford .card img{
+    height: 15rem;
+    width: 22rem;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+}
+.chevrolet{
+    margin-left: 10rem;
+}
+.chevrolet h1{
+    margin-left: 3rem;
+}
+.chevrolet .card{
+    margin-left: 4.5rem;
+    margin-top: 3rem;
+    display: inline-block;
+    justify-items: center;
+    margin-bottom: 5rem;
+    width: 23rem;
+}
+.chevrolet .card img{
+    width: 22rem;
+    height: 15rem; 
+}
+.toyota{
+    margin-left: 10rem;
+}
+.toyota h1{
+    margin-left: 3rem;
+}
+.toyota .card{
+    margin-left: 4.5rem;
+    margin-top: 3rem;
+    display: inline-block;
+    justify-items: center;
+    margin-bottom: 5rem;
+    width: 23rem;
+}
+.toyota .card img{
+    width: 25rem;
+    height: 15rem; 
+}
+.filtragem h1{
+    margin-left: 3rem;
+    margin-top: 4rem;
+}
+.filtragem .marcas{
+    margin-left: 4rem;
+    margin-top: 1rem;
+}
+.filtragem .cores h1{
+    margin-top: 1rem;
+}
+.filtragem .icons-cores{
+    margin-left: 4rem;
+    font-size: 30px;
+}
+.carrinho .card{
+    margin-left: 1rem;
+    top: 3rem;
+    width: 94rem;
+    
+}
+.carrinho .card-img-top{
+    margin-top: 3rem;
+    margin-left: 3rem;
+    height: 300px;
+    width: 460px;
+}
+.carrinho .card-body h1{
+    margin-top: -20rem;
+    margin-left: 30rem;
+}
+.carrinho .card-body p{
+    margin-left: 30rem;
+    margin-top: 4rem;
+}
+.card-body input{
+    margin-left: 30rem;
+    width: 50px;
+}
+.card-body  button{
+    background-color: red;
+    color: white;
+    margin-left: 80rem;
+    font-size: 25px;
+}
+.container .detalhe-cartao{
+    text-align: center;
+    margin-top: 5rem;
+    margin-left: 22rem;
+    border: black solid 3px;
+    width: 500px;
+}
+.container .detalhe-cartao h1{
+    margin-top: 3rem;
+}
+.cartao-numero{
+    margin-top: 2rem;
+    margin-left: -12rem;
+}
+.cartao-nome{
+    margin-top: 2rem;
+    margin-left: -11rem;
+}
+.cartao-validade{
+    margin-top: 2rem;
+    text-align: center;
+}
+.codigo-cvv{
+    margin-top: 2rem;
+    margin-left: -10rem;
+}
+.botao-finalizar{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
